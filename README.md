@@ -1,2 +1,11 @@
 # Projeto-Integrado-de-IA-e-An-lise-de-Dado
 Repositório completo de Ciência de Dados com análises estatísticas avançadas, NLP, sistema de recomendação PySpark, governança de IA e visualizações interativas, implementando técnicas de machine learning e big data para soluções orientadas a dados.
+
+Português (PT-BR):
+Este projeto integra técnicas avançadas de análise de dados para criar soluções inteligentes em três pilares principais: (1) Processamento de Linguagem Natural com modelos BERT para análise de sentimentos e classificação de textos; (2) Sistema de Recomendação escalável utilizando algoritmos de filtragem colaborativa (ALS) no ecossistema PySpark; e (3) Governança de IA com métricas de justiça algorítmica para detecção de vieses. A análise estatística robusta e visualizações interativas complementam o pipeline, permitindo desde insights exploratórios até a implantação de modelos em produção. Ideal para aplicações em CRM, e-commerce e auditoria de algoritmos.
+
+English (EN):
+This project combines advanced data analysis techniques to deliver intelligent solutions across three core pillars: (1) Natural Language Processing using BERT models for sentiment analysis and text classification; (2) Recommendation System with collaborative filtering (ALS) built on PySpark for scalable performance; and (3) AI Governance featuring algorithmic fairness metrics for bias detection. Enhanced by robust statistical analysis and interactive visualizations, the pipeline supports everything from exploratory insights to production deployment. Ideal for CRM, e-commerce, and algorithmic auditing applications.
+
+Español (ES):
+Este proyecto integra técnicas avanzadas de análisis de datos en tres ejes principales: (1) Procesamiento de Lenguaje Natural con modelos BERT para análisis de sentimientos y clasificación de textos; (2) Sistema de Recomendación escalable usando filtrado colaborativo (ALS) en PySpark; y (3) Gobernanza de IA con métricas de equidad algorítmica para detectar sesgos. Complementado con análisis estadístico sólido y visualizaciones interactivas, el flujo de trabajo abarca desde insights exploratorios hasta implementación en producción. Ideal para CRM, comercio electrónico y auditoría de algoritmos.
